@@ -1,11 +1,11 @@
-# BookGenre_Generator 
-A web project for genre-based book recommendations, developed with HTML, CSS, and JavaScript. 
+<!-- BookLookup -->
+A web project for searching book information, developed with HTML, CSS, and JavaScript. 
 
 <br>
 
-**GenreReads**
+**BookLookup**
 
-In today's fast-paced world, finding time to read and discovering books that truly resonate with us can be challenging. With countless genres and an overwhelming amount of book options, it's easy to feel lost in the sea of choices. This is where **GenreReads** comes in.
+In today's world, finding information about books can be a daunting task. With countless titles and authors, it's easy to feel overwhelmed. This is where **BookLookup** comes in.
 <br>
 
  **Get to know me**
@@ -25,15 +25,15 @@ In today's fast-paced world, finding time to read and discovering books that tru
 
 ## **Introduction**
 
-This web project generates book recommendations based on selected genres, aiming to help users find suitable readings according to their preferences. It's developed using HTML, CSS, and JavaScript.
+This web project provides information about books based on user input, aiming to help users discover details about their favorite books or explore new ones. It's developed using HTML, CSS, and JavaScript.
 
 **HOW TO USE**
 
 No installation required. Simply open index.html in a web browser.
 
-1. Select a genre from the dropdown menu.
+1. Type the name of the book you're interested in into the search bar.
 2. Click on the "Search" button.
-3. Explore the recommended books.
+3. Explore the information about the book.
 
 ##
 
