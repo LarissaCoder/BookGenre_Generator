@@ -25,6 +25,7 @@ body {
     justify-content: space-between;
     align-items: center;
     box-shadow: 1px 1px 1px #78797a;
+    max-width: 768px
 }
 
 ::-webkit-input-placeholder{
@@ -125,3 +126,10 @@ p {
     margin-right: 10px;
 }
 
+@media screen and (max-width: 768px) {
+    .search-box {
+      width: 90%; /* Ajustado para porcentagem */
+      max-width: 300px; /* Ajustado para porcentagem */
+      top: 80%; /* Ajuste vertical em telas menores */
+    }
+    }
